@@ -48,5 +48,7 @@
 }
 
 .profile-img {
-  border-radius: 50%;
+  border-radius: 50px;
+  height: 400px;
+  overflow: hidden;
 }
