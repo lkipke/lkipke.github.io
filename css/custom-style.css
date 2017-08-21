@@ -46,3 +46,7 @@
 .project-description-list > li {
   padding: 6px;
 }
+
+.profile-img {
+  border-radius: 50%;
+}
