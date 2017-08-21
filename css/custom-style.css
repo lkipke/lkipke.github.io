@@ -1,0 +1,48 @@
+#keyboard-icon {
+  font-size: 500%;
+  margin-bottom: 10px;
+}
+
+#bug-icon {
+  font-size: 400%;
+  padding: 8px 0px;
+}
+
+#globe-icon {
+  font-size: 400%;
+  padding: 8px 0px;
+}
+
+#cogs-icon {
+  font-size: 400%;
+  padding: 8px 0px;
+}
+
+#skills {
+  background: #e5e5e5;
+}
+
+.btn-dark {
+  color: #2C3E50;
+  border: 2px solid #2C3E50;
+}
+
+.btn-dark:hover {
+  color: #fff;
+  background: #2C3E50;
+}
+
+.custom-contact-buttons {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-right: 10px;
+}
+
+.project-description-list {
+  text-align: left;
+  font-size: 120%;
+}
+
+.project-description-list > li {
+  padding: 6px;
+}
