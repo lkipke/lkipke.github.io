@@ -52,3 +52,17 @@
   height: 400px;
   overflow: hidden;
 }
+
+.job-description {
+  text-align: left;
+  width: 60%;
+  margin-left: 20%;
+}
+
+.job-description > p {
+  font-size: 115%;
+}
+
+.job-title {
+  margin-top: -14px;
+}
