@@ -1,1 +1,1 @@
-Personal website for Levi Kipke
+Personal website for Levi Kipke: levikipke.dev
